@@ -24,4 +24,4 @@ FROM (
         transactions_by_customers AS tbc
 ) AS sub
 WHERE
-    sub.total_amount > :total_spend_threshold;
+    sub.total_amount >: total_spend_threshold;

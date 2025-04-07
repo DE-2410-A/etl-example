@@ -259,7 +259,7 @@ The user stories we have are definitely more ***EPIC*** like.  They are also int
 
 It seems reasonable to break the user stories down into each of the Acceptance Criteria (or grouped Acceptance Criteria).  Each of the test criteria for the acceptance criteria then becomes a task. These will be recorded on their own card.
 
-Commerical software is usually used to manage the backlog - the most common of these being Atlassian's Jira.  It has many tools that allow for the management of the backlog, sprint planning, sprint management and reporting.  It integrates with many other tools, such as GitHub, Slack and Confluence, allowing teams to work in a collaborative way.
+Commercial software is usually used to manage the backlog - the most common of these being Atlassian's Jira.  It has many tools that allow for the management of the backlog, sprint planning, sprint management and reporting.  It integrates with many other tools, such as GitHub, Slack and Confluence, allowing teams to work in a collaborative way.
 
 For this project, we have a GitHub repository and we can use GitHub Projects, Issues and Milestones to see how these can be used to simulate the more commonly used features of Jira.
 
